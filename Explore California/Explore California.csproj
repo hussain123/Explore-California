@@ -2,7 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Explore_California</RootNamespace>
+    <RootNamespace>ExploreCalifornia</RootNamespace>
+    <AssemblyName>ExploreCalifornia</AssemblyName>
   </PropertyGroup>
 
 </Project>

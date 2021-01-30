@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Explore_California
+namespace ExploreCalifornia
 {
     public class Program
     {
